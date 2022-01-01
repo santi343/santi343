@@ -1,5 +1,5 @@
 ### Hola, soy Zacarías S. Quispe 👋
-
+- 🌱 Desarrollador Web Full Stack Node.js, Java (en proceso).
 <!--
 **santi343/santi343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
